@@ -1,2 +1,6 @@
 labda
 peonza
+
+
+észak
+dél
